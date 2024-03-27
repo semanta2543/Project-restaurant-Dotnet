@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\5047.jpg",
+      "PackagePath": "staticwebassets\\images\\5047.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\62333823.webp",
+      "PackagePath": "staticwebassets\\images\\62333823.webp"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\Amygdalota-Greek-Almond-Cookies-Recipe.jpg",
+      "PackagePath": "staticwebassets\\images\\Amygdalota-Greek-Almond-Cookies-Recipe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\Capture.PNG",
+      "PackagePath": "staticwebassets\\images\\Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\Hamburger-image-vertical.jpg",
+      "PackagePath": "staticwebassets\\images\\Hamburger-image-vertical.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\SpicedLentilBurgers_Styled1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\SpicedLentilBurgers_Styled1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\aaaa.PNG",
+      "PackagePath": "staticwebassets\\images\\aaaa.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\abs.PNG",
+      "PackagePath": "staticwebassets\\images\\abs.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\avo-salad.jpg",
+      "PackagePath": "staticwebassets\\images\\avo-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\ceasar-sld.jpg",
+      "PackagePath": "staticwebassets\\images\\ceasar-sld.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\chef-1.jpg",
+      "PackagePath": "staticwebassets\\images\\chef-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\chocolate-dessert-home-page.jpg",
+      "PackagePath": "staticwebassets\\images\\chocolate-dessert-home-page.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\download (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\download (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\download (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\download (4).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\images\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\eggs-benedict.jpg",
+      "PackagePath": "staticwebassets\\images\\eggs-benedict.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\filet-mignon-ft-500x375.jpg",
+      "PackagePath": "staticwebassets\\images\\filet-mignon-ft-500x375.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\greek-sld.jpg",
+      "PackagePath": "staticwebassets\\images\\greek-sld.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\hero-img.png",
+      "PackagePath": "staticwebassets\\images\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\lamb-shish-kebab-recipe-card.jpg",
+      "PackagePath": "staticwebassets\\images\\lamb-shish-kebab-recipe-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\menu.PNG",
+      "PackagePath": "staticwebassets\\images\\menu.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\napoleon-cake-recipe-2-500x500.webp",
+      "PackagePath": "staticwebassets\\images\\napoleon-cake-recipe-2-500x500.webp"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\rack-of-lamb-recipe-6753707-hero-01-a8c8cb5efcdb4c1485d37b491d090e71.jpg",
+      "PackagePath": "staticwebassets\\images\\rack-of-lamb-recipe-6753707-hero-01-a8c8cb5efcdb4c1485d37b491d090e71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\images\\rrrr.png",
+      "PackagePath": "staticwebassets\\images\\rrrr.png"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Samanta Lici\\Desktop\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication3.props",
+      "PackagePath": "build\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication3.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication3.props",
+      "PackagePath": "buildTransitive\\WebApplication3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

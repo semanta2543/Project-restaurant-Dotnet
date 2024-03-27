@@ -1,0 +1,19 @@
+﻿@model List<ContactUsModel>
+
+<div class="container mt-5 mb-5">
+    <h2 class="text-danger font-weight-bold text-center">Review Messages</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Name: @item.Name</h5>
+                        <p class="card-text">Contact Number: @item.ContactNumber</p>
+                        <p class="card-text">Message: @item.Message</p>
+                      </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

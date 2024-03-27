@@ -1,0 +1,166 @@
+﻿
+
+<div class="homePage mb-5">
+    <div class="container mt-5">
+
+
+        <div class="row bg-light">
+            <div class="col-6">
+                <img src="~/images/hero-img.png" width="450px" height="250px" alt="Sakeei Restaurant Image" class=" mt-4 img-fluid">
+            </div>
+            <div class="col-6 mt-5">
+                <div class="col-md-12">
+                    <h1 class="display-4 text-danger font-weight-bold text-right">Welcome to Sakeei Restaurant</h1>
+                </div>
+                <p class="text-right mt-5">
+                    Sakeii is a stunning new restaurant that offers diners a
+                    unique and unforgettable dining experience.
+                    Located in Zogu I bulevard, the restaurant boasts elegant
+                    and sophisticated décor, with high ceilings,
+                    ornate details, and a warm and inviting atmosphere.<br>
+                    The menu features a range of delicious, seasonally inspired
+                    dishes, created using only the freshest and finest
+                    ingredients.
+                </p>
+
+
+                <div class="col-md-12 text-right">
+                    <a asp-controller="Reservations" asp-action="Index" class="btn  btn-danger  btn-lg mx-2">Book a Table</a>
+                    <span class="text-muted text-danger text-decoration-underline">Or call: +355690000000</span>
+
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+
+
+    <div class="menuWrapper">
+        <div class="row text-center mt-4">
+            <p class="text-danger font-weight-bold mb-0">OUR MENU</p>
+            <h2 class="font-monospace">CHECK OUR DELICIOUS MENU</h2>
+        </div>
+        <div class="menu  d-flex text-center  justify-content-center flex-row">
+            <div class="table-responsive">
+                <p class="font-weight-bold text-danger">Refreshing healthy options</p>
+                <table class="table table-bordered table-hover" id="sldMenu">
+
+                    <thead>
+                        <tr>
+                            <th scope="col" class="text-center">Salads</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Greek Salad</td>
+                            <td>10.99$</td>
+                        </tr>
+                        <tr>
+                            <td>Avocado Salad</td>
+                            <td>9.99$</td>
+                        </tr>
+                        <tr>
+                            <td>Ceasar Salad</td>
+                            <td>11.99$</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="table-responsive">
+                <p class="text-danger font-weight-bold">Top rated dishes</p>
+                <table class="table table-bordered table-hover" id="meatMenu">
+
+                    <thead>
+                        <tr>
+                            <th scope="col" class="text-center">Meat Main</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Filet Migton</td>
+                            <td>21.99$</td>
+                        </tr>
+                        <tr>
+                            <td>Rack of lamb</td>
+                            <td>29.99$</td>
+                        </tr>
+                        <tr>
+                            <td>Shish kebab</td>
+                            <td>31.99$</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="table-responsive">
+                <p class="font-weight-bold text-danger">Fingerfoods</p>
+                <table class="table table-bordered table-hover" id="meatMenu">
+
+                    <thead>
+                        <tr>
+                            <th scope="col" class="text-center">Sandwitches</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Beef burger</td>
+                            <td>15.99$</td>
+                        </tr>
+                        <tr>
+                            <td>Vegan</td>
+                            <td>9.99$</td>
+                        </tr>
+                        <tr>
+                            <td>Chicken mozzarella</td>
+                            <td>11.99$</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+        <div class="col-md-12 mt-0 text-center">
+            <a asp-action="Menu" asp-controller="Products" class="btn  btn-danger  btn-lg mx-2">Menu</a>
+
+        </div>
+    </div>
+
+    <div class="whereToFindUs mt-5 text-center">
+        <h2 class="text-danger font-weight-bold">Where to Find Us</h2>
+        <p>Sakeei,Bulevardi Zogu I, Tiranë, Shqipëri</p>
+
+        <!-- Përdorimi i iframe nga kodi i dërguar -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23967.089973046488!2d19.819555210359233!3d41.33308687321102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1350310db0518c2f%3A0x66adc753e7cc308!2sFaculty%20of%20Natural%20Sciences!5e0!3m2!1sen!2s!4v1686340363964!5m2!1sen!2s"
+                width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+        <div class="row justify-content-end">
+            <div class="col-4 text-right font-weight-bold">
+                <p class="mt-3">Have something you want to tell us? Click here=></p>
+            </div>
+            <div class="col-2 text-right">
+                <a asp-controller="ContactUs" asp-action="Index" class="btn btn-danger  btn-lg mt-3">Contact Us</a>
+            </div>
+        </div>
+                
+              
+        
+    </div>
+
+   
+</div>
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿@model WebApplication3.Models.ReviewModel
+
+<div class="container bg-light mt-5">
+    <h1 class="text-danger font-weight-bold font-monospace text-center">Leave a Review</h1>
+
+    <form asp-action="Index" method="post">
+        <div class="form-group">
+            <label asp-for="Name" class="font-weight-bold text-danger font-monospace">Name:</label>
+            <input asp-for="Name" class="form-control" required />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Email" class="font-weight-bold text-danger font-monospace">Email:</label>
+            <input asp-for="Email" type="email" class="form-control" required />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label class="font-weight-bold text-danger font-monospace">Rating:</label>
+            <div>
+                @for (var i = 1; i <= 5; i++)
+                {
+                    <input type="radio" id="Rating-@i" name="Rating" value="@i" required />
+                    <label for="Rating-@i">@i</label>
+                }
+            </div>
+            <span asp-validation-for="Rating" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Message" class="font-weight-bold text-danger font-monospace">Message:</label>
+            <textarea asp-for="Message" class="form-control" required></textarea>
+            <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-12 mt-0 text-center">
+            <button type="submit" class="btn btn-danger mb-3">Send</button>
+        </div>
+       
+    </form>
+</div>

@@ -1,0 +1,12 @@
+﻿@model WebApplication3.Models.UserViewModel
+
+<h3>Remove User Role</h3>
+<form method="post" asp-controller="Admin" asp-action="RemoveUserRole">
+    <div class="form-group">
+        <label for="Role">Select Role to Remove:</label>
+        @Html.DropDownListFor(model => model.Role, ViewBag.Roles as SelectList, new { @class = "form-control" })
+    </div>
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Remove Role</button>
+</form>
+

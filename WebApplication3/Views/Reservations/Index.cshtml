@@ -1,0 +1,35 @@
+﻿@model WebApplication3.Models.ReservationModel
+
+<div class="container mt-5 bg-light">
+    <h1 class="text-center mb-4 font-monospace text-danger">Make a Reservation</h1>
+
+    <form method="post" asp-action="Index">
+        <div class="form-group">
+            <label asp-for="Name" class="font-monospace font-weight-bold text-danger">Your Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Enter your name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ContactNumber" class="font-monospace font-weight-bold text-danger">Contact Number</label>
+            <input asp-for="ContactNumber" class="form-control" placeholder="Enter your contact number" />
+            <span asp-validation-for="ContactNumber" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="DateTime" class="font-monospace font-weight-bold text-danger">Date and Time</label>
+            <input asp-for="DateTime" class="form-control" type="datetime-local" />
+            <span asp-validation-for="DateTime" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Guests" class="font-monospace font-weight-bold text-danger">Number of Guests</label>
+            <input asp-for="Guests" class="form-control" type="number" />
+            <span asp-validation-for="Guests" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-12 mt-0 text-center">
+            <button type="submit" class="btn btn-danger mb-3">Make Reservation</button>
+        </div>
+    </form>
+</div>

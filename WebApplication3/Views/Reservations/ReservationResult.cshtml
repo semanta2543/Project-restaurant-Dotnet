@@ -1,0 +1,27 @@
+﻿@model WebApplication3.Models.ReservationModel
+
+@{
+    ViewData["Title"] = "Reservation Result";
+}
+
+<div class="container mt-5">
+    <h2 class="text-danger font-weight-bold">Reservation Result</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <p class="card-text">Reservation details:</p>
+            <p class="card-text"><strong>Name:</strong> @Model.Name</p>
+            <p class="card-text"><strong>Contact Number:</strong> @Model.ContactNumber</p>
+            <p class="card-text"><strong>Date and Time:</strong> @Model.DateTime</p>
+            <p class="card-text"><strong>Number of Guests:</strong> @Model.Guests</p>
+        </div>
+    </div>
+
+    <div class="card mt-3">
+        <div class="card-body">
+            <p class="card-text">Thank you for making a reservation with us!</p>
+        </div>
+    </div>
+
+    <a asp-action="Index" class="btn btn-danger mt-3">Back to Reservation Form</a>
+</div>
